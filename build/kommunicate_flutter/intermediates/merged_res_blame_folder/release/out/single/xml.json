@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_top_start.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\xml\\standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_end.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\xml\\standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\standalone_badge_offset.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\xml\\standalone_badge_offset.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\mimetypes.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\xml\\mimetypes.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\km_provider_paths.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\xml\\km_provider_paths.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\searchable_contacts.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\xml\\searchable_contacts.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_start.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\xml\\standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\xml\\standalone_badge.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\xml\\standalone_badge.xml"
+    }
+]

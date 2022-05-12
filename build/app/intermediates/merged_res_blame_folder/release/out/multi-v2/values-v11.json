@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\flutter\\LifeWallPoc\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,3,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,143,288",
+                        "endLines": "2,5,6",
+                        "endColumns": "87,12,42",
+                        "endOffsets": "138,283,326"
+                    }
+                }
+            ]
+        }
+    ]
+}

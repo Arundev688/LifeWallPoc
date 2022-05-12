@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/lifewallpoc/MainActivity.java
+ com.example.lifewallpoc.MainActivity
+com/example/lifewallpoc/BuildConfig.java
+ com.example.lifewallpoc.BuildConfig

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_extended_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_extended_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\linear_indeterminate_line2_tail_interpolator.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\linear_indeterminate_line2_tail_interpolator.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_extended_fab_change_size_collapse_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_extended_fab_change_size_collapse_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\linear_indeterminate_line1_tail_interpolator.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\linear_indeterminate_line1_tail_interpolator.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_extended_fab_state_list_animator.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_extended_fab_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\delete_mic_animation.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\animator\\delete_mic_animation.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_extended_fab_change_size_expand_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_extended_fab_change_size_expand_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_card_state_list_anim.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_card_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\basket_path.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\animator\\basket_path.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\mtrl_extended_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\mtrl_extended_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\linear_indeterminate_line2_head_interpolator.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\linear_indeterminate_line2_head_interpolator.xml"
+    },
+    {
+        "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\animator\\linear_indeterminate_line1_head_interpolator.xml",
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\8ce7c8230addebcff4e6f12b10f974ef\\material-1.3.0\\res\\animator\\linear_indeterminate_line1_head_interpolator.xml"
+    }
+]
