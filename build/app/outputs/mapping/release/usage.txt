@@ -105,6 +105,7 @@ com.bumptech.glide.gifdecoder.GifHeader:
     public static final int NETSCAPE_LOOP_COUNT_FOREVER
     public static final int NETSCAPE_LOOP_COUNT_DOES_NOT_EXIST
 com.google.android.gms.maps.model.zzq
+io.flutter.plugins.sharedpreferences.R$style
 com.google.android.gms.common.api.internal.TaskApiCall
 kotlin.collections.ByteIterator
 androidx.vectordrawable.R$layout
@@ -5069,6 +5070,7 @@ kotlin.sequences.FlatteningSequence$iterator$1
 kotlin.DeepRecursiveFunction
 kotlin.collections.ArraysKt___ArraysJvmKt$asList$3
 com.google.android.gms.internal.location.zze
+io.flutter.plugins.sharedpreferences.R$dimen
 androidx.recyclerview.widget.FastScroller:
     public boolean isDragging()
     boolean isVisible()
@@ -5112,6 +5114,7 @@ com.google.android.gms.common.api.internal.ActivityLifecycleObserver
 com.google.android.gms.maps.GoogleMap$OnMapLongClickListener
 androidx.constraintlayout.motion.utils.Easing$CubicEasing
 com.google.android.gms.internal.location.zzv
+io.flutter.plugins.sharedpreferences.R
 com.google.android.gms.maps.zzt
 com.google.android.gms.internal.maps.zzi
 kotlin.math.MathKt
@@ -8523,6 +8526,7 @@ com.google.android.datatransport.runtime.ExecutionModule:
     void <init>()
 io.flutter.embedding.engine.loader.FlutterLoader$Settings:
     public void setLogTag(java.lang.String)
+io.flutter.plugins.sharedpreferences.BuildConfig
 com.google.android.material.circularreveal.CircularRevealGridLayout
 androidx.constraintlayout.widget.R$color
 androidx.recyclerview.widget.AdapterHelper$UpdateOp:
@@ -11140,6 +11144,11 @@ com.google.android.flexbox.FlexItem:
     public static final float FLEX_SHRINK_NOT_SET
     public static final float FLEX_BASIS_PERCENT_DEFAULT
     public static final int MAX_SIZE
+io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl:
+    private static final java.lang.String SHARED_PREFERENCES_NAME
+    private static final java.lang.String LIST_IDENTIFIER
+    private static final java.lang.String BIG_INTEGER_PREFIX
+    private static final java.lang.String DOUBLE_PREFIX
 com.google.android.material.transition.platform.FadeProvider$1
 com.google.android.gms.location.LocationResult:
     public static com.google.android.gms.location.LocationResult create(java.util.List)
@@ -15177,6 +15186,7 @@ dagger.Subcomponent$Builder
 dagger.multibindings.Multibinds
 androidx.constraintlayout.motion.widget.MotionLayout$Model
 com.google.android.gms.maps.model.PolygonOptions
+io.flutter.plugins.sharedpreferences.R$drawable
 com.google.android.material.drawable.DrawableUtils:
     private void <init>()
     public static android.util.AttributeSet parseDrawableXml(android.content.Context,int,java.lang.CharSequence)
@@ -18609,7 +18619,6 @@ com.google.android.material.checkbox.MaterialCheckBox:
     public void <init>(android.content.Context)
     public boolean isUseMaterialThemeColors()
 io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding:
-    public android.content.Context getApplicationContext()
     public io.flutter.embedding.engine.FlutterEngine getFlutterEngine()
     public io.flutter.view.TextureRegistry getTextureRegistry()
     public io.flutter.plugin.platform.PlatformViewRegistry getPlatformViewRegistry()
@@ -19072,6 +19081,9 @@ androidx.core.view.ViewCompat$ScrollAxis
 androidx.annotation.HalfFloat
 kotlin.jvm.internal.TypeParameterReference$Companion$WhenMappings
 kotlin.collections.UByteIterator
+io.flutter.plugins.sharedpreferences.SharedPreferencesPlugin:
+    public static void registerWith(io.flutter.plugin.common.PluginRegistry$Registrar)
+    private static final java.lang.String CHANNEL_NAME
 com.google.android.gms.common.internal.GetServiceRequest:
     public android.os.Bundle getExtraArgs()
 com.applozic.mobicommons.commons.image.ImageCache:
@@ -20213,6 +20225,7 @@ androidx.appcompat.widget.ActionBarContextView:
     public synthetic bridge boolean isOverflowMenuShowPending()
     public synthetic bridge void postShowOverflowMenu()
     public synthetic bridge void animateToVisibility(int)
+io.flutter.plugins.sharedpreferences.R$id
 kotlin.reflect.KMutableProperty1$Setter
 com.google.android.material.datepicker.DateValidatorPointBackward$1
 androidx.fragment.app.FragmentHostCallback:
@@ -21210,6 +21223,7 @@ io.kommunicate.Kommunicate:
     public static final java.lang.String KM_CHAT_CONTEXT
     public static final java.lang.String KM_ALREADY_LOGGED_IN_STATUS
     public static final java.lang.String PLACEHOLDER_APP_ID
+io.flutter.plugins.sharedpreferences.R$string
 com.bumptech.glide.annotation.GlideType
 com.google.android.gms.common.internal.ServiceSpecificExtraArgs$GamesExtraArgs
 com.google.android.material.appbar.AppBarLayout$BaseBehavior:
@@ -21293,6 +21307,7 @@ com.google.android.datatransport.runtime.scheduling.jobscheduling.Uploader:
 com.google.android.material.internal.NavigationSubMenu
 com.google.android.gms.common.util.JsonUtils
 com.bumptech.glide.annotation.GlideModule
+io.flutter.plugins.sharedpreferences.R$layout
 kotlin.jvm.functions.Function18
 androidx.versionedparcelable.VersionedParcel$ParcelException
 com.google.android.material.transition.platform.FadeProvider
@@ -23039,6 +23054,7 @@ androidx.appcompat.view.menu.MenuItemImpl:
     static final int NO_ICON
 kotlin.collections.ArrayDeque
 dagger.internal.MapBuilder
+io.flutter.plugins.sharedpreferences.R$integer
 androidx.dynamicanimation.animation.DynamicAnimation$13
 com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoScheduler:
     private static final java.lang.String LOG_TAG
@@ -29098,6 +29114,7 @@ kotlin.reflect.TypesJVMKt$typeToString$unwrap$1
 androidx.drawerlayout.R$layout
 com.google.android.gms.common.api.internal.zabd:
     public abstract com.google.android.gms.common.api.internal.BaseImplementation$ApiMethodImpl enqueue(com.google.android.gms.common.api.internal.BaseImplementation$ApiMethodImpl)
+io.flutter.plugins.sharedpreferences.R$styleable
 kotlin.io.FileTreeWalk
 androidx.appcompat.resources.R$styleable:
     private void <init>()
@@ -31361,6 +31378,7 @@ com.applozic.mobicomkit.uiwidgets.R$menu:
     public static final int group_create_menu
     public static final int menu_contact
     public static final int mobicom_main_menu
+io.flutter.plugins.sharedpreferences.R$attr
 kotlin.text.Regex$fromInt$$inlined$apply$lambda$1
 dagger.internal.DoubleCheck:
     public static dagger.Lazy lazy(javax.inject.Provider)
@@ -32675,6 +32693,7 @@ com.google.android.gms.common.internal.safeparcel.SafeParcelReader:
     public static android.os.Parcel[] createParcelArray(android.os.Parcel,int)
     public static java.util.ArrayList createParcelList(android.os.Parcel,int)
     public static void readList(android.os.Parcel,int,java.util.List,java.lang.ClassLoader)
+io.flutter.plugins.sharedpreferences.R$color
 androidx.multidex.ZipUtil:
     void <init>()
     private static final int ENDHDR
@@ -36704,7 +36723,6 @@ com.google.android.material.datepicker.MaterialDatePicker:
     static final java.lang.Object TOGGLE_BUTTON_TAG
 com.bumptech.glide.load.model.Headers$1
 io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding:
-    private final android.content.Context applicationContext
     private final io.flutter.embedding.engine.FlutterEngine flutterEngine
     private final io.flutter.view.TextureRegistry textureRegistry
     private final io.flutter.plugin.platform.PlatformViewRegistry platformViewRegistry

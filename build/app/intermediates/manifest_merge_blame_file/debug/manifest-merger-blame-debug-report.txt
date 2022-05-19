@@ -16,47 +16,47 @@
 14-->D:\flutter\LifeWallPoc\android\app\src\debug\AndroidManifest.xml:6:22-64
 15
 16    <queries>
-16-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:12:5-16:15
+16-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:12:5-16:15
 17        <intent>
-17-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:13:9-15:18
+17-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:13:9-15:18
 18            <action android:name="android.media.action.IMAGE_CAPTURE" />
-18-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:14:13-73
-18-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:14:21-70
+18-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:14:13-73
+18-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:14:21-70
 19        </intent>
 20    </queries>
 21    <queries>
-21-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:12:5-16:15
+21-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:12:5-16:15
 22        <intent>
 23            <action android:name="android.speech.RecognitionService" />
 24        </intent>
 25    </queries> <!-- Permissions to be used when using these features -->
 26    <uses-permission android:name="android.permission.CAMERA" />
-26-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:13:5-15:30
-26-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:14:9-49
+26-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:13:5-15:30
+26-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:14:9-49
 27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-27-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:16:5-19:30
-27-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:17:9-65
+27-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:16:5-19:30
+27-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:17:9-65
 28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-28-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:20:5-22:30
-28-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:21:9-64
+28-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:20:5-22:30
+28-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:21:9-64
 29    <uses-permission android:name="android.permission.RECORD_AUDIO" /> <!-- Mandatory permissions -->
-29-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:23:5-25:30
-29-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:24:9-55
+29-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:23:5-25:30
+29-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:24:9-55
 30    <uses-permission android:name="android.permission.VIBRATE" />
-30-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:28:5-30:30
-30-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:29:9-50
+30-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:28:5-30:30
+30-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:29:9-50
 31    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-31-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:31:5-33:30
-31-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:32:9-65
+31-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:31:5-33:30
+31-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:32:9-65
 32    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-32-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:34:5-36:30
-32-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:35:9-63
+32-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:34:5-36:30
+32-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:35:9-63
 33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-33-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:40:5-42:30
-33-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:41:9-63
+33-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:40:5-42:30
+33-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:41:9-63
 34    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-34-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:43:5-45:30
-34-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:44:9-65
+34-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:43:5-45:30
+34-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:44:9-65
 35
 36    <uses-feature
 36-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\faf3edd0a0a40b32e6c32885cc662e42\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
@@ -76,7 +76,7 @@
 43-->D:\flutter\LifeWallPoc\android\app\src\main\AndroidManifest.xml:4:4-42:19
 44        android:name="androidx.multidex.MultiDexApplication"
 45        android:allowBackup="true"
-45-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:24:9-35
+45-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:24:9-35
 46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 46-->[androidx.core:core:1.3.1] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\3975ffd70914deb17405b14313b8e4ba\core-1.3.1\AndroidManifest.xml:24:18-86
 47        android:debuggable="true"
@@ -85,7 +85,7 @@
 49        android:label="lifewallpoc"
 49-->D:\flutter\LifeWallPoc\android\app\src\main\AndroidManifest.xml:5:9-36
 50        android:supportsRtl="true" >
-50-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:26:9-35
+50-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:26:9-35
 51        <activity
 51-->D:\flutter\LifeWallPoc\android\app\src\main\AndroidManifest.xml:8:9-36:20
 52            android:name="com.example.lifewallpoc.MainActivity"
@@ -150,235 +150,235 @@
 91-->D:\flutter\LifeWallPoc\android\app\src\main\AndroidManifest.xml:41:13-30
 92
 93        <provider
-93-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:27:9-36:20
+93-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:27:9-36:20
 94            android:name="com.applozic.mobicomkit.uiwidgets.KmFileProvider"
-94-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:28:13-76
+94-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:28:13-76
 95            android:authorities="com.example.lifewallpoc.provider"
-95-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:29:13-60
+95-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:29:13-60
 96            android:exported="false"
-96-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:30:13-37
+96-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:30:13-37
 97            android:grantUriPermissions="true" >
-97-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:31:13-47
+97-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:31:13-47
 98            <meta-data
-98-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:33:13-35:61
+98-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:33:13-35:61
 99                android:name="android.support.FILE_PROVIDER_PATHS"
-99-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:34:17-67
+99-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:34:17-67
 100                android:resource="@xml/km_provider_paths" />
-100-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:35:17-58
+100-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:35:17-58
 101        </provider>
 102
 103        <service
-103-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:38:9-45:19
+103-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:38:9-45:19
 104            android:name="com.applozic.mobicomkit.uiwidgets.KmFirebaseMessagingService"
-104-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:39:13-88
+104-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:39:13-88
 105            android:exported="true"
-105-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:40:13-36
+105-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:40:13-36
 106            android:stopWithTask="false" >
-106-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:41:13-41
+106-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:41:13-41
 107            <intent-filter>
-107-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:42:13-44:29
+107-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:42:13-44:29
 108                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-108-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:43:17-78
-108-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:43:25-75
+108-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:43:17-78
+108-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:43:25-75
 109            </intent-filter>
 110        </service>
 111
 112        <activity
-112-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:47:9-53:34
+112-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:47:9-53:34
 113            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
-113-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:48:13-104
+113-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:48:13-104
 114            android:configChanges="keyboardHidden|screenSize|locale|smallestScreenSize|screenLayout|orientation"
-114-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:49:13-113
+114-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:49:13-113
 115            android:label="@string/app_name"
-115-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:50:13-45
+115-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:50:13-45
 116            android:launchMode="singleTask"
-116-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:51:13-44
+116-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:51:13-44
 117            android:theme="@style/ApplozicTheme" />
-117-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:52:13-49
+117-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:52:13-49
 118        <activity
-118-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:54:9-59:58
+118-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:54:9-59:58
 119            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.MobicomLocationActivity"
-119-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:55:13-107
+119-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:55:13-107
 120            android:configChanges="keyboardHidden|screenSize|smallestScreenSize|screenLayout|orientation"
-120-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:56:13-106
+120-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:56:13-106
 121            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
-121-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:57:13-118
+121-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:57:13-118
 122            android:theme="@style/ApplozicTheme"
-122-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:58:13-49
+122-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:58:13-49
 123            android:windowSoftInputMode="adjustResize" />
-123-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:59:13-55
+123-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:59:13-55
 124        <activity
-124-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:60:9-72:20
+124-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:60:9-72:20
 125            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.FullScreenImageActivity"
-125-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:61:13-107
+125-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:61:13-107
 126            android:configChanges="keyboardHidden|orientation|screenSize"
-126-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:62:13-74
+126-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:62:13-74
 127            android:label="Image"
-127-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:63:13-34
+127-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:63:13-34
 128            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
-128-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:64:13-118
+128-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:64:13-118
 129            android:theme="@style/Applozic_FullScreen_Theme" >
-129-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:65:13-61
+129-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:65:13-61
 130
 131            <!-- Parent activity meta-data to support API level 7+ -->
 132            <meta-data
-132-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:69:13-71:112
+132-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:69:13-71:112
 133                android:name="android.support.PARENT_ACTIVITY"
-133-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:70:17-63
+133-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:70:17-63
 134                android:value="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity" />
-134-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:71:17-109
+134-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:71:17-109
 135        </activity>
 136        <activity
-136-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:73:9-80:34
+136-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:73:9-80:34
 137            android:name="com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.webview.KmWebViewActivity"
-137-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:74:13-114
+137-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:74:13-114
 138            android:configChanges="keyboardHidden|orientation|screenSize"
-138-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:75:13-74
+138-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:75:13-74
 139            android:label="Image"
-139-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:76:13-34
+139-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:76:13-34
 140            android:launchMode="singleTop"
-140-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:77:13-43
+140-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:77:13-43
 141            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
-141-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:78:13-118
+141-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:78:13-118
 142            android:theme="@style/ApplozicTheme" />
-142-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:79:13-49
+142-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:79:13-49
 143        <activity
-143-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:81:9-85:34
+143-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:81:9-85:34
 144            android:name="com.applozic.mobicomkit.uiwidgets.kommunicate.activities.LeadCollectionActivity"
-144-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:82:13-107
+144-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:82:13-107
 145            android:configChanges="keyboardHidden|orientation|screenSize"
-145-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:83:13-74
+145-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:83:13-74
 146            android:theme="@style/ApplozicTheme" />
-146-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:84:13-49
+146-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:84:13-49
 147        <activity
-147-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:86:9-96:20
+147-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:86:9-96:20
 148            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.MobiComAttachmentSelectorActivity"
-148-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:87:13-117
+148-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:87:13-117
 149            android:configChanges="keyboardHidden|screenSize|smallestScreenSize|screenLayout|orientation"
-149-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:88:13-106
+149-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:88:13-106
 150            android:launchMode="singleTop"
-150-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:89:13-43
+150-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:89:13-43
 151            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
-151-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:90:13-118
+151-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:90:13-118
 152            android:theme="@style/ApplozicTheme"
-152-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:91:13-49
+152-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:91:13-49
 153            android:windowSoftInputMode="stateHidden|adjustResize" >
-153-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:92:13-67
+153-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:92:13-67
 154            <meta-data
-154-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:69:13-71:112
+154-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:69:13-71:112
 155                android:name="android.support.PARENT_ACTIVITY"
-155-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:70:17-63
+155-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:70:17-63
 156                android:value="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity" />
-156-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:71:17-109
+156-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:71:17-109
 157        </activity>
 158
 159        <meta-data
-159-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:51:9-54:34
+159-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:51:9-54:34
 160            android:name="main_folder_name"
-160-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:52:13-44
+160-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:52:13-44
 161            android:value="Kommunicate" />
-161-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:53:13-40
+161-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:53:13-40
 162
 163        <service
-163-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:56:9-60:34
+163-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:56:9-60:34
 164            android:name="com.applozic.mobicomkit.api.conversation.MessageIntentService"
-164-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:57:13-89
+164-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:57:13-89
 165            android:exported="false"
-165-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:58:13-37
+165-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:58:13-37
 166            android:permission="android.permission.BIND_JOB_SERVICE" />
-166-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:59:13-69
+166-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:59:13-69
 167        <service
-167-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:61:9-65:34
+167-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:61:9-65:34
 168            android:name="com.applozic.mobicomkit.api.conversation.ApplozicIntentService"
-168-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:62:13-90
+168-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:62:13-90
 169            android:exported="false"
-169-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:63:13-37
+169-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:63:13-37
 170            android:permission="android.permission.BIND_JOB_SERVICE" />
-170-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:64:13-69
+170-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:64:13-69
 171        <service
-171-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:66:9-70:34
+171-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:66:9-70:34
 172            android:name="com.applozic.mobicomkit.api.conversation.ApplozicMqttIntentService"
-172-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:67:13-94
+172-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:67:13-94
 173            android:exported="false"
-173-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:68:13-37
+173-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:68:13-37
 174            android:permission="android.permission.BIND_JOB_SERVICE" />
-174-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:69:13-69
+174-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:69:13-69
 175        <service
-175-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:71:9-75:34
+175-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:71:9-75:34
 176            android:name="com.applozic.mobicomkit.api.people.UserIntentService"
-176-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:72:13-80
+176-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:72:13-80
 177            android:exported="false"
-177-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:73:13-37
+177-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:73:13-37
 178            android:permission="android.permission.BIND_JOB_SERVICE" />
-178-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:74:13-69
+178-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:74:13-69
 179        <service
-179-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:76:9-80:34
+179-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:76:9-80:34
 180            android:name="com.applozic.mobicomkit.api.conversation.ConversationIntentService"
-180-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:77:13-94
+180-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:77:13-94
 181            android:exported="false"
-181-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:78:13-37
+181-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:78:13-37
 182            android:permission="android.permission.BIND_JOB_SERVICE" />
-182-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:79:13-69
+182-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:79:13-69
 183
 184        <receiver
-184-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:82:9-90:20
+184-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:82:9-90:20
 185            android:name="com.applozic.mobicomkit.broadcast.TimeChangeBroadcastReceiver"
-185-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:83:13-89
+185-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:83:13-89
 186            android:exported="true" >
-186-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:84:13-36
+186-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:84:13-36
 187            <intent-filter>
-187-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:86:13-89:29
+187-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:86:13-89:29
 188                <action android:name="android.intent.action.TIME_SET" />
-188-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:87:17-73
-188-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:87:25-70
+188-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:87:17-73
+188-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:87:25-70
 189                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-189-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:88:17-81
-189-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:88:25-78
+189-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:88:17-81
+189-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:88:25-78
 190            </intent-filter>
 191        </receiver>
 192        <receiver
-192-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:91:9-100:20
+192-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:91:9-100:20
 193            android:name="com.applozic.mobicomkit.broadcast.ConnectivityReceiver"
-193-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:92:13-82
+193-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:92:13-82
 194            android:enabled="true"
-194-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:93:13-35
+194-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:93:13-35
 195            android:exported="true" >
-195-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:94:13-36
+195-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:94:13-36
 196            <intent-filter>
-196-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:96:13-99:29
+196-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:96:13-99:29
 197                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-197-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:97:17-82
-197-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:97:25-79
+197-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:97:17-82
+197-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:97:25-79
 198                <action android:name="android.intent.action.BOOT_COMPLETED" />
-198-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:98:17-79
-198-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:98:25-76
+198-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:98:17-79
+198-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:98:25-76
 199            </intent-filter>
 200        </receiver>
 201
 202        <meta-data
-202-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:102:9-104:108
+202-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:102:9-104:108
 203            android:name="activity.open.on.notification"
-203-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:103:13-57
+203-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:103:13-57
 204            android:value="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity" />
-204-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:104:13-105
+204-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:104:13-105
 205        <meta-data
-205-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:105:9-107:48
+205-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:105:9-107:48
 206            android:name="com.package.name"
-206-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:106:13-44
+206-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:106:13-44
 207            android:value="com.example.lifewallpoc" />
-207-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:107:13-45
+207-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:107:13-45
 208        <meta-data
-208-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:108:9-110:59
+208-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:108:9-110:59
 209            android:name="com.applozic.server.url"
-209-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:109:13-51
+209-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:109:13-51
 210            android:value="https://chat.kommunicate.io" />
-210-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:110:13-56
+210-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:110:13-56
 211        <meta-data
-211-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:111:9-113:62
+211-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:111:9-113:62
 212            android:name="com.applozic.mqtt.server.url"
-212-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:112:13-56
+212-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:112:13-56
 213            android:value="tcp://socket.applozic.com:8080" />
-213-->[io.kommunicate.sdk:kommunicate:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ac5c34ab9b642078b15d87fbb876a631\jetified-kommunicate-2.3.8\AndroidManifest.xml:113:13-59
+213-->[io.kommunicate.sdk:kommunicate:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\0624f229769bd1515df34605c308fd6c\jetified-kommunicate-2.4.0\AndroidManifest.xml:113:13-59
 214        <!--
 215             FirebaseMessagingService performs security checks at runtime,
 216             but set to not exported to explicitly avoid allowing another app to call it.
@@ -390,10 +390,10 @@
 220            android:exported="false" >
 220-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ba93ee4e099e16a4611706af9bbce924\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:30:13-37
 221            <intent-filter android:priority="-500" >
-221-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:42:13-44:29
+221-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:42:13-44:29
 222                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-222-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:43:17-78
-222-->[io.kommunicate.sdk:kommunicateui:2.3.8] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\AndroidManifest.xml:43:25-75
+222-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:43:17-78
+222-->[io.kommunicate.sdk:kommunicateui:2.4.0] C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\AndroidManifest.xml:43:25-75
 223            </intent-filter>
 224        </service>
 225        <service

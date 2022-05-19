@@ -5,20 +5,20 @@ library {
   maven_library {
     groupId: "io.kommunicate.sdk"
     artifactId: "kommunicateui"
-    version: "2.3.8"
+    version: "2.4.0"
   }
   digests {
-    sha256: "ry\003\034\205U\350\fT\'GX=R\307\223)C\202\326b\334\023\303\311\276\273$\321\372\270}"
+    sha256: "\024s@\362\211E\a\030\347b3\316M\316\004@\001\344\022\330wk\361\255\2174\236\305\256\217\300\b"
   }
 }
 library {
   maven_library {
     groupId: "io.kommunicate.sdk"
     artifactId: "kommunicate"
-    version: "2.3.8"
+    version: "2.4.0"
   }
   digests {
-    sha256: "\360\033\361R8aV\352C\212;\253R\231]\237\352<AQ*\336\377\265*\"p\254:P\274^"
+    sha256: "\177,\267k\237\276\207/iF\v1\325!\227\266\266[7viME+\363\"\327\337\005\256\277\256"
   }
 }
 library {
@@ -793,7 +793,7 @@ library {
 }
 library {
   digests {
-    sha256: "i\033\325\241xH\234\347 \346b%\rD\001d\022\365K\027\333l*\237rw\230N&IHr"
+    sha256: "\031k\241X\031\251\a\243\304T\242\025\006\270*p\345\300\240Kc2Jm>1\314\016/\021Rq"
   }
 }
 library_dependencies {

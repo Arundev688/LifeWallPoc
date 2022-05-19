@@ -1496,7 +1496,7 @@
     <string name="email_verified">EMAIL_VERIFIED</string>
     <string name="empty_conversations">No conversations!</string>
     <string name="enable_vibration_notification">Enable vibration on notification</string>
-    <string name="enter_message_hint">Write a message...</string>
+    <string name="enter_message_hint">Write a message…</string>
     <string name="enter_mt_message_hint">Write a message…</string>
     <string name="enter_support_query_hint">enter your queries, bug reporting or feedback here</string>
     <string name="enter_user_id">"Enter UserId"</string>

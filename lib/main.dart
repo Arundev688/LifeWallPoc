@@ -3,7 +3,8 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:lifewallpoc/provider/dataprodivider.dart';
 import 'package:lifewallpoc/routes/routes.dart';
-import 'package:lifewallpoc/screens/Home/homepage.dart';
+import 'package:lifewallpoc/screens/Dashboard/dashboard.dart';
+import 'package:lifewallpoc/screens/Dashboard/Tabs/all_services.dart';
 import 'package:lifewallpoc/screens/login.dart';
 import 'package:provider/provider.dart';
 import 'constant/customcolor.dart';
@@ -104,7 +105,7 @@ class _splash extends State<Splash> with SingleTickerProviderStateMixin {
     data = await getBoolValuesSF() ?? false;
     //data = true;
     Timer(Duration(seconds:3),
-            () => data==true ?    Navigator.of(context).pushNamed(HomePage.routeName) :
+            () => data==true ?    Navigator.of(context).pushNamed(Dashboard.routeName) :
         Navigator.of(context).pushNamed(LoginPage.routeName)
     );
   }

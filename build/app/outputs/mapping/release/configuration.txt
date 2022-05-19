@@ -290,7 +290,7 @@
 
 
 # End of content from D:\flutter\LifeWallPoc\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
-# The proguard configuration file for the following section is C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\proguard.txt
+# The proguard configuration file for the following section is C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\proguard.txt
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified
 # in /media/devashish/Development/Tools/android-sdk-linux/tools/proguard/proguard-android.txt
@@ -340,7 +340,7 @@
 -keepattributes Signature
 
 
-# End of content from C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\977878adb1f5b9ef9d43bdfd8dcc2c49\jetified-kommunicateui-2.3.8\proguard.txt
+# End of content from C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\e22b0fde3e742fb407b3eb70e175e9b6\jetified-kommunicateui-2.4.0\proguard.txt
 # The proguard configuration file for the following section is C:\Users\Hxtreme\.gradle\caches\transforms-2\files-2.1\ba93ee4e099e16a4611706af9bbce924\jetified-firebase-messaging-20.1.0\proguard.txt
 # Analytics library is optional.
 # Access to this class is protected by try/catch(NoClassDefFoundError e)

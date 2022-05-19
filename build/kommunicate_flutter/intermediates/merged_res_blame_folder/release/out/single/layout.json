@@ -13,7 +13,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\quickconversion_activity.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\quickconversion_activity.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\quickconversion_activity.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
@@ -25,7 +25,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_attachment_gridview_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_attachment_gridview_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_attachment_gridview_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_alert_dialog_actions.xml",
@@ -33,7 +33,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_message_row_view.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_message_row_view.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_message_row_view.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_toolbar_surface.xml",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\feedback_rating_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\feedback_rating_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\feedback_rating_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
@@ -57,11 +57,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_rich_message_receiver_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_rich_message_receiver_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_rich_message_receiver_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtmainactivity_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mtmainactivity_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mtmainactivity_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\material_chip_input_combo.xml",
@@ -69,23 +69,23 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_sent_message_list_view.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_sent_message_list_view.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_sent_message_list_view.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\channel_create_activty_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\channel_create_activty_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\channel_create_activty_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_prechat_input_item_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_prechat_input_item_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_prechat_input_item_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\people_activity.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\people_activity.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\people_activity.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_groups_list_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_groups_list_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_groups_list_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\material_clockface_view.xml",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\conversation_scheduler.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\conversation_scheduler.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\conversation_scheduler.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_picker_header_dialog.xml",
@@ -109,7 +109,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_received_message_list_view.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_received_message_list_view.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_received_message_list_view.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_text_input_start_icon.xml",
@@ -117,7 +117,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_document_attachment.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_document_attachment.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_document_attachment.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_picker_fullscreen.xml",
@@ -125,7 +125,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\contact_select_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\contact_select_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\contact_select_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
@@ -133,11 +133,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_take_over_from_bot_dialog.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_take_over_from_bot_dialog.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_take_over_from_bot_dialog.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_rich_list_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_rich_list_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_rich_list_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_chat_widget.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_chat_widget.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_chat_widget.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
@@ -157,7 +157,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_channel_custom_message_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_channel_custom_message_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_channel_custom_message_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_action_chip.xml",
@@ -169,7 +169,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_faq_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_faq_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_faq_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
@@ -181,11 +181,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_prechat_dropdown_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_prechat_dropdown_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_prechat_dropdown_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\activity_km_lead_collection.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\activity_km_lead_collection.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\activity_km_lead_collection.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
@@ -193,15 +193,15 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_away_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_away_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_away_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_rich_message_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_rich_message_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_rich_message_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\contact_list_fragment.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\contact_list_fragment.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\contact_list_fragment.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
@@ -213,27 +213,27 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_context_based_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_context_based_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_context_based_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_activity_profile.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_activity_profile.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_activity_profile.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_hotel_details_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_hotel_details_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_hotel_details_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\channel_info_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\channel_info_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\channel_info_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_chat_location_view.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_chat_location_view.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_chat_location_view.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_multimedia_fragment_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_multimedia_fragment_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_multimedia_fragment_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\material_textinput_timepicker.xml",
@@ -253,7 +253,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_booking_details_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_booking_details_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_booking_details_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
@@ -261,15 +261,15 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_feedback_agent_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_feedback_agent_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_feedback_agent_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_individual_multimedia_option_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_individual_multimedia_option_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_individual_multimedia_option_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\sliding_pane.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\sliding_pane.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\sliding_pane.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
@@ -281,7 +281,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\feedback_display_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\feedback_display_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\feedback_display_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
@@ -289,11 +289,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_custom_toast_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_custom_toast_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_custom_toast_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_recorder_message_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_recorder_message_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_recorder_message_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_reflow_chipgroup.xml",
@@ -301,11 +301,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_image_full_screen.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_image_full_screen.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_image_full_screen.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\update_channel_name_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\update_channel_name_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\update_channel_name_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_bottom_navigation_item.xml",
@@ -313,7 +313,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_activity_payment.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_activity_payment.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_activity_payment.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
@@ -321,7 +321,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_custom_message_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_custom_message_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_custom_message_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_picker_header_fullscreen.xml",
@@ -341,7 +341,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\user_profile_fragment_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\user_profile_fragment_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\user_profile_fragment_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
@@ -357,7 +357,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\contact_users_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\contact_users_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\contact_users_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_text_input_end_icon.xml",
@@ -369,15 +369,15 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_record_view_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_record_view_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_record_view_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_rich_message_single_text_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_rich_message_single_text_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_rich_message_single_text_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_message_info.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_message_info.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_message_info.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_received_message_list_view.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_received_message_list_view.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_received_message_list_view.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_calendar_month.xml",
@@ -397,7 +397,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_message_template_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_message_template_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_message_template_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
@@ -405,7 +405,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\reply_message_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\reply_message_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\reply_message_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
@@ -421,7 +421,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_service_disconnection_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_service_disconnection_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_service_disconnection_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
@@ -453,7 +453,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_quick_reply_item_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_quick_reply_item_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_quick_reply_item_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\material_time_input.xml",
@@ -465,7 +465,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_attachment_preview_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_attachment_preview_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_attachment_preview_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_layout_snackbar_include.xml",
@@ -473,11 +473,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_guest_details_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_guest_details_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_guest_details_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_form_item_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_form_item_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_form_item_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_design_checkbox.xml",
@@ -489,11 +489,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_auto_suggestion_row_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_auto_suggestion_row_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_auto_suggestion_row_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_message_list_header_footer.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_message_list_header_footer.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_message_list_header_footer.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -505,11 +505,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_rich_message_video_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_rich_message_video_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_rich_message_video_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_list_item_title_navigation.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_list_item_title_navigation.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_list_item_title_navigation.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_design_radiobutton.xml",
@@ -521,7 +521,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_multi_attachment_activity.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_multi_attachment_activity.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_multi_attachment_activity.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_calendar_day_of_week.xml",
@@ -537,7 +537,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\contact_select_list_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\contact_select_list_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\contact_select_list_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -545,7 +545,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\activity_km_location.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\activity_km_location.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\activity_km_location.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_calendar_horizontal.xml",
@@ -553,7 +553,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_custom_toolbar_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_custom_toolbar_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_custom_toolbar_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
@@ -561,7 +561,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_rich_message_sender_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_rich_message_sender_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_rich_message_sender_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\material_timepicker_textinput_display.xml",
@@ -573,7 +573,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_attachment_gridview_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_attachment_gridview_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_attachment_gridview_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
@@ -585,7 +585,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_image_rich_message_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_image_rich_message_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_image_rich_message_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\material_clock_display.xml",
@@ -605,7 +605,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\attach_photo_popup_window_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\attach_photo_popup_window_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\attach_photo_popup_window_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_calendar_vertical.xml",
@@ -617,7 +617,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_sent_message_list_view.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_sent_message_list_view.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_sent_message_list_view.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
@@ -629,7 +629,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_date_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_date_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_date_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_toolbar_elevation.xml",
@@ -653,7 +653,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_audio_message_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_audio_message_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_audio_message_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\material_clockface_textview.xml",
@@ -673,11 +673,11 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_message_list.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_message_list.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_message_list.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_faq_reply_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_faq_reply_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_faq_reply_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
@@ -685,15 +685,15 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_take_over_from_bot_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_take_over_from_bot_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_take_over_from_bot_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\activity_contact.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\activity_contact.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\activity_contact.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\contact_list_item.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\contact_list_item.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\contact_list_item.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mtrl_calendar_months.xml",
@@ -705,7 +705,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobicom_contact_share_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobicom_contact_share_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobicom_contact_share_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_toolbar_custom_background.xml",
@@ -713,7 +713,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\km_call_layout.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\km_call_layout.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\km_call_layout.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
@@ -729,7 +729,7 @@
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\mobiframework_custom_spinner.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\layout\\mobiframework_custom_spinner.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\layout\\mobiframework_custom_spinner.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\layout\\test_chip_zero_corner_radius.xml",

@@ -38,6 +38,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    },
+                    "to": {
+                        "startLines": "59",
+                        "startColumns": "4",
+                        "startOffsets": "6089",
+                        "endColumns": "57",
+                        "endOffsets": "6142"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\ba93ee4e099e16a4611706af9bbce924\\jetified-firebase-messaging-20.1.0\\res\\values-ar\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -105,23 +122,6 @@
                         "endLines": "9,37,38,39,40,60,61,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110",
                         "endColumns": "12,83,100,118,76,62,90,68,66,99,64,60,67,61,57,113,59,60,56,72,122,80,79,117,80,80,88,66,65,77,79,83,71,73,72,69,90,70,89,94,73,82,92,48,68,85,84,61,63,62,108,91,96,92,79",
                         "endOffsets": "465,3202,3303,3422,3499,6205,6296,6470,6537,6637,6702,6763,6831,6893,6951,7065,7125,7186,7243,7316,7439,7520,7600,7718,7799,7880,7969,8036,8102,8180,8260,8344,8416,8490,8563,8633,8724,8795,8885,8980,9054,9137,9230,9279,9348,9434,9519,9581,9645,9708,9817,9909,10006,10099,10179"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\values-ar\\values-ar.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "57",
-                        "endOffsets": "108"
-                    },
-                    "to": {
-                        "startLines": "59",
-                        "startColumns": "4",
-                        "startOffsets": "6089",
-                        "endColumns": "57",
-                        "endOffsets": "6142"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
 # compiler: R8
 # compiler_version: 2.1.62
 # min_api: 16
-# pg_map_id: 4e60584
+# pg_map_id: d8dd15c
 # common_typos_disable
 $r8$backportedMethods$utility$Objects$2$equals -> a:
     boolean equals(java.lang.Object,java.lang.Object) -> a
@@ -15705,24 +15705,25 @@ com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.RichMessageActionPr
     com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.callbacks.KmRichMessageListener getRichMessageListener() -> b
     java.util.Map getStringMap(java.util.Map) -> c
     void handleKmSubmitButton(android.content.Context,com.applozic.mobicomkit.api.conversation.Message,com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActionModel$SubmitButton) -> d
-    void handleQuickReplies(java.lang.Object,java.util.Map) -> e
-    void handleSubmitButton(android.content.Context,java.lang.Object) -> f
-    void handleWebLinks(java.lang.Object) -> g
-    boolean isInvalidData(java.util.Map,com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActionModel$SubmitButton) -> h
-    boolean isValidAction(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmRichMessageModel$KmAction) -> i
-    void loadImageOnFullScreen(android.content.Context,java.lang.String,com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmRichMessageModel$KmPayloadModel) -> j
-    void makeFormRequest(android.content.Context,com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmRichMessageModel$KmPayloadModel) -> k
-    void openWebLink(java.lang.String,java.lang.String) -> l
-    void openWebLink(java.lang.String,boolean) -> m
-    void sendBookingDetailsMessage(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmBookingDetailsModel,java.util.Map) -> n
-    void sendFormDataAsMessage(android.content.Context,com.applozic.mobicomkit.api.conversation.Message,java.util.Map,java.util.Map,java.lang.String) -> o
-    void sendGuestListMessage(java.util.List,java.util.Map) -> p
-    void sendHotelDetailMessage(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmHotelBookingModel,java.util.Map) -> q
-    void sendMessage(java.lang.String,java.util.Map) -> r
+    java.util.Map handleMetaData(boolean,java.util.Map,java.util.Map,java.util.Map) -> e
+    void handleQuickReplies(java.lang.Object,java.util.Map) -> f
+    void handleSubmitButton(android.content.Context,java.lang.Object) -> g
+    void handleWebLinks(java.lang.Object) -> h
+    boolean isInvalidData(java.util.Map,com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActionModel$SubmitButton) -> i
+    boolean isValidAction(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmRichMessageModel$KmAction) -> j
+    void loadImageOnFullScreen(android.content.Context,java.lang.String,com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmRichMessageModel$KmPayloadModel) -> k
+    void makeFormRequest(android.content.Context,com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmRichMessageModel$KmPayloadModel) -> l
+    void openWebLink(java.lang.String,java.lang.String) -> m
+    void openWebLink(java.lang.String,boolean) -> n
+    void sendBookingDetailsMessage(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmBookingDetailsModel,java.util.Map) -> o
+    void sendFormDataAsMessage(com.applozic.mobicomkit.api.conversation.Message,java.util.Map,java.util.Map,java.lang.String) -> p
+    void sendGuestListMessage(java.util.List,java.util.Map) -> q
+    void sendHotelDetailMessage(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmHotelBookingModel,java.util.Map) -> r
     void onAction(android.content.Context,java.lang.String,com.applozic.mobicomkit.api.conversation.Message,java.lang.Object,java.util.Map) -> s
-    void sendMessage(java.lang.String,java.util.Map,java.lang.Short) -> t
-    void sendRoomDetailsMessage(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmHotelBookingModel,java.util.Map) -> u
-    void updateLanguage(java.lang.String) -> v
+    void sendMessage(java.lang.String,java.util.Map) -> t
+    void sendMessage(java.lang.String,java.util.Map,java.lang.Short) -> u
+    void sendRoomDetailsMessage(com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.KmHotelBookingModel,java.util.Map) -> v
+    void updateLanguage(java.lang.String) -> w
 com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.RichMessageActionProcessor$1 -> com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.RichMessageActionProcessor$1:
     void onSuccess(java.lang.Object) -> a
     void onFailure(java.lang.Object) -> b
@@ -16022,9 +16023,10 @@ com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActio
     java.lang.String getFormAction() -> a
     java.util.Map getFormData() -> b
     java.lang.String getMessage() -> c
-    java.lang.String getPostFormDataAsMessage() -> d
-    java.util.Map getReplyMetadata() -> e
-    java.lang.String getRequestType() -> f
+    java.lang.String getPostBackToKommunicate() -> d
+    java.lang.String getPostFormDataAsMessage() -> e
+    java.util.Map getReplyMetadata() -> f
+    java.lang.String getRequestType() -> g
 com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActionModel$Type -> com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActionModel$Type:
     com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActionModel$Type[] $VALUES -> e
     com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.models.v2.KmRMActionModel$Type SUGGESTED_REPLY -> d
@@ -30152,8 +30154,10 @@ io.flutter.embedding.engine.plugins.FlutterPlugin -> io.flutter.embedding.engine
     void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding) -> e
 io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterAssets -> io.flutter.embedding.engine.i.a$a:
 io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding -> io.flutter.embedding.engine.i.a$b:
-    io.flutter.plugin.common.BinaryMessenger binaryMessenger -> a
-    io.flutter.plugin.common.BinaryMessenger getBinaryMessenger() -> a
+    android.content.Context applicationContext -> a
+    io.flutter.plugin.common.BinaryMessenger binaryMessenger -> b
+    android.content.Context getApplicationContext() -> a
+    io.flutter.plugin.common.BinaryMessenger getBinaryMessenger() -> b
 io.flutter.embedding.engine.plugins.PluginRegistry -> io.flutter.embedding.engine.i.b:
     void add(io.flutter.embedding.engine.plugins.FlutterPlugin) -> i
 io.flutter.embedding.engine.plugins.activity.ActivityAware -> io.flutter.embedding.engine.i.c.a:
@@ -31185,6 +31189,31 @@ io.flutter.plugin.platform.VirtualDisplayController$OneTimeOnDrawListener -> io.
     void schedule(android.view.View,java.lang.Runnable) -> a
 io.flutter.plugin.platform.VirtualDisplayController$OneTimeOnDrawListener$1 -> io.flutter.plugin.platform.l$b$a:
     io.flutter.plugin.platform.VirtualDisplayController$OneTimeOnDrawListener this$0 -> b
+io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl -> io.flutter.plugins.a.a:
+    android.os.Handler handler -> c
+    android.content.SharedPreferences preferences -> a
+    java.util.concurrent.ExecutorService executor -> b
+    void onMethodCall(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result) -> a
+    android.os.Handler access$000(io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl) -> b
+    void commitAsync(android.content.SharedPreferences$Editor,io.flutter.plugin.common.MethodChannel$Result) -> c
+    java.util.List decodeList(java.lang.String) -> d
+    java.lang.String encodeList(java.util.List) -> e
+    java.util.Map getAllPrefs() -> f
+    void teardown() -> g
+io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl$1 -> io.flutter.plugins.a.a$a:
+    android.content.SharedPreferences$Editor val$editor -> b
+    io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl this$0 -> d
+    io.flutter.plugin.common.MethodChannel$Result val$result -> c
+io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl$1$1 -> io.flutter.plugins.a.a$a$a:
+    io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl$1 this$1 -> c
+    boolean val$response -> b
+io.flutter.plugins.sharedpreferences.SharedPreferencesPlugin -> io.flutter.plugins.a.b:
+    io.flutter.plugins.sharedpreferences.MethodCallHandlerImpl handler -> b
+    io.flutter.plugin.common.MethodChannel channel -> a
+    void setupChannel(io.flutter.plugin.common.BinaryMessenger,android.content.Context) -> a
+    void onAttachedToEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding) -> b
+    void teardownChannel() -> c
+    void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding) -> e
 io.flutter.util.PathUtils -> e.a.d.a:
     java.lang.String getCacheDirectory(android.content.Context) -> a
     java.lang.String getDataDirectory(android.content.Context) -> b

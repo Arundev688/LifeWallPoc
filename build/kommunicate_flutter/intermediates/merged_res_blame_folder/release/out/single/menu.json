@@ -1,26 +1,26 @@
 [
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\menu\\mobicom_basic_menu_for_normal_message.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\menu\\mobicom_basic_menu_for_normal_message.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\menu\\mobicom_basic_menu_for_normal_message.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\menu\\channel_menu_option.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\menu\\channel_menu_option.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\menu\\channel_menu_option.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\menu\\mobicom_main_menu.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\menu\\mobicom_main_menu.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\menu\\mobicom_main_menu.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\menu\\attachment_menu.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\menu\\attachment_menu.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\menu\\attachment_menu.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\menu\\menu_contact.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\menu\\menu_contact.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\menu\\menu_contact.xml"
     },
     {
         "merged": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\menu\\group_create_menu.xml",
-        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\menu\\group_create_menu.xml"
+        "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\menu\\group_create_menu.xml"
     }
 ]

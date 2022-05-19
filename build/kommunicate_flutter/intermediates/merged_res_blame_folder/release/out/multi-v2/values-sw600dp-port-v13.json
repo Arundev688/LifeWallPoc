@@ -4,7 +4,7 @@
             "outputFile": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+                    "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -19,7 +19,7 @@
             "outputFile": "D:\\flutter\\LifeWallPoc\\build\\kommunicate_flutter\\intermediates\\res\\merged\\release\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\977878adb1f5b9ef9d43bdfd8dcc2c49\\jetified-kommunicateui-2.3.8\\res\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+                    "source": "C:\\Users\\Hxtreme\\.gradle\\caches\\transforms-2\\files-2.1\\e22b0fde3e742fb407b3eb70e175e9b6\\jetified-kommunicateui-2.4.0\\res\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

@@ -8,10 +8,11 @@ import 'package:lifewallpoc/constant/AppConfig.dart';
 import 'package:lifewallpoc/constant/customcolor.dart';
 import 'package:lifewallpoc/constant/string.dart';
 import 'package:lifewallpoc/provider/dataprodivider.dart';
+import 'package:lifewallpoc/screens/Dashboard/dashboard.dart';
 import 'package:lifewallpoc/utils/KommunicateFlutterPlugin.dart';
+import 'package:lifewallpoc/widget/alertdialog.dart';
 import 'package:lifewallpoc/widget/primarybutton.dart';
 import 'package:lifewallpoc/widget/primaryformfield.dart';
-import 'Home/homepage.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -49,106 +50,111 @@ class _login extends State<LoginPage>{
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Primarycolor,
+        automaticallyImplyLeading: false,
         title: const Text('LifeWall POC'),
+        centerTitle: true,
       ),
-      body: SafeArea(
-        child: SingleChildScrollView(
-          child: Container(
-            width: device_width,
-            height: device_height,
-            padding: const EdgeInsets.all(18.0),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.center,
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: <Widget>[
-                Form(
-                  key: _formKey, //formkey is used for textfield  validation
-                  child: Column(
-                    children: [
-                      PrimaryFormfield(
-                        controller: namecontroller, //controll is user to save the textfield value
-                        width: device_width,
-                        pswvisible: false,
-                        maxlines: 1,
-                        auto: false,
-                        align: TextAlign.start,
-                        icon: Icon(Icons.perm_identity_rounded,
-                            color: Colors.grey),
-                        label: 'Username',
-                        type: TextInputType.text,
-                        action: TextInputAction.next,
-                        validator: (value) {
-                          if (value.contains('mobile_api')) {
-                            return null;
-                          } else {
-                            return "Enter correct username";
-                          }
-                        },
-                      ),
-                      SizedBox(height: device_height * 0.05),
-                      PrimaryFormfield(
-                        controller: passwordcontroller,
-                        width: device_width,
-                        pswvisible: !showpassword,
-                        auto: false,
-                        maxlines: 1,
-                        align: TextAlign.start,
-                        suffixicon: IconButton(
-                          splashColor: Colors.transparent,
-                          icon: Icon(
-                            showpassword
-                                ? Icons.visibility
-                                : Icons.visibility_off,
-                            color: Colors.green[800],
-                          ),
-                          onPressed: () {
-                               setState(() {
-                                 showpassword =
-                                 !showpassword;
-                               });
+      body: WillPopScope(
+        onWillPop: _onWillPop,
+        child: SafeArea(
+          child: SingleChildScrollView(
+            child: Container(
+              width: device_width,
+              height: device_height,
+              padding: const EdgeInsets.all(18.0),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: <Widget>[
+                  Form(
+                    key: _formKey, //formkey is used for textfield  validation
+                    child: Column(
+                      children: [
+                        PrimaryFormfield(
+                          controller: namecontroller, //controll is user to save the textfield value
+                          width: device_width,
+                          pswvisible: false,
+                          maxlines: 1,
+                          auto: false,
+                          align: TextAlign.start,
+                          icon: Icon(Icons.perm_identity_rounded,
+                              color: Colors.grey),
+                          label: 'Username',
+                          type: TextInputType.text,
+                          action: TextInputAction.next,
+                          validator: (value) {
+                            if (value.isEmpty) {
+                              return "Enter correct username";
+                            } else {
+                              return null;
+                            }
                           },
                         ),
-                        icon: const Icon(
-                          Icons.vpn_key_outlined,
-                          color: Colors.grey,
+                        SizedBox(height: device_height * 0.05),
+                        PrimaryFormfield(
+                          controller: passwordcontroller,
+                          width: device_width,
+                          pswvisible: !showpassword,
+                          auto: false,
+                          maxlines: 1,
+                          align: TextAlign.start,
+                          suffixicon: IconButton(
+                            splashColor: Colors.transparent,
+                            icon: Icon(
+                              showpassword
+                                  ? Icons.visibility
+                                  : Icons.visibility_off,
+                              color: Colors.green[800],
+                            ),
+                            onPressed: () {
+                              setState(() {
+                                showpassword =
+                                !showpassword;
+                              });
+                            },
+                          ),
+                          icon: const Icon(
+                            Icons.vpn_key_outlined,
+                            color: Colors.grey,
+                          ),
+                          label: 'Password',
+                          type: TextInputType.text,
+                          action: TextInputAction.done,
+                          validator: (value) {
+                            if (value.isEmpty) {
+                              return "Enter correct password";
+                            } else {
+                              return null;
+                            }
+                          },
                         ),
-                        label: 'Password',
-                        type: TextInputType.text,
-                        action: TextInputAction.done,
-                        validator: (value) {
-                          if (value.contains('apptech_pmcs123')) {
-                            return null;
-                          }else{
-                            return "Enter correct password";
-                          }
-                        },
-                      ),
-                    ],
-                  ),
-                ),
-                SizedBox(height: device_height * 0.08),
-                loading == true  ?  Center(child: CircularProgressIndicator(color: Primarycolor,)) :  Align(
-                  alignment: Alignment.center,
-                  child: PrimaryButton(
-                    width: device_width * 0.6,
-                    height: device_height * 0.058,
-                    press: () {
-                      if (_formKey.currentState.validate()) {
-                        setState(() {
-                          loading = true;
-                        });
-                        getLogin();
-                        addBoolToSF("loginstatus", true);
-                      }
-                    },
-                    text:'Sign in',
-                    mystyle: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 15.0,
+                      ],
                     ),
                   ),
-                ),
-              ],
+                  SizedBox(height: device_height * 0.08),
+                    loading == true  ?  Center(child: CircularProgressIndicator(color: Primarycolor,)) :  Align(
+                    alignment: Alignment.center,
+                    child: PrimaryButton(
+                      width: device_width * 0.6,
+                      height: device_height * 0.058,
+                      press: () {
+                        if (_formKey.currentState.validate()) {
+                          setState(() {
+                            loading = true;
+                          });
+                          getLogin();
+                          addBoolToSF("loginstatus", true);
+                        }
+                      },
+                      text:'Sign in',
+                      mystyle: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 15.0,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
             ),
           ),
         ),
@@ -168,30 +174,13 @@ class _login extends State<LoginPage>{
     await Provider.of<Dataprovider>(context, listen: false)
         .getlogin(namecontroller.text, passwordcontroller.text)
         .then((value) {
-      if(value.jsonrpc == "2.0"){
+      if(value.result.status == "Successfully logged in"){
+        Navigator.of(context).pushNamed(Dashboard.routeName);
+      } else {
         String val = value.result.status;
         ScaffoldMessenger.of(context).showSnackBar( SnackBar(
           content: Text(val),
         ));
-        Navigator.of(context).pushNamed(HomePage.routeName);
- /*       KommunicateFlutterPlugin.login(user).then((result) {
-          setState(() {
-            loading = false;
-          });
-          Navigator.pop(context);
-          Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()));
-        }).catchError((error) {
-          ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-            content: Text('Enter valid user name & password'),
-          ));
-          setState(() {
-            loading = false;
-          });
-        });*/
-      } else {
-         fail_msg = "Login Fail";
-        _snackBar1 = SnackBar(content: Text(fail_msg));
-        ScaffoldMessenger.of(context).showSnackBar(_snackBar1);
         setState(() {
           loading = false;
         });
@@ -216,7 +205,7 @@ class _login extends State<LoginPage>{
         loading = false;
       });
 
-      Navigator.of(context).pushNamed(HomePage.routeName);
+      Navigator.of(context).pushNamed(Dashboard.routeName);
     }).catchError((error) {
       print("Login failed : " + error.toString());
       ScaffoldMessenger.of(context).showSnackBar(SnackBar(
@@ -229,7 +218,52 @@ class _login extends State<LoginPage>{
     });
   }
 
+
+  Future<bool> _onWillPop() {
+
+    double device_width = MediaQuery.of(context).size.width;
+    double device_height = MediaQuery.of(context).size.height;
+
+    showGeneralDialog(
+      barrierDismissible: false,
+      context: context,
+      barrierColor: Colors.black54,
+      // space around dialog
+      transitionDuration: Duration(milliseconds: 800),
+      transitionBuilder: (context, a1, a2, child) {
+        return ScaleTransition(
+            scale: CurvedAnimation(
+                parent: a1,
+                curve: Curves.elasticOut,
+                reverseCurve: Curves.easeOutCubic),
+            child: CustomAlertDialog(
+              title: "Exit Alert",
+              subtitle: "Do you want to exit the app?",
+              btn_yes: "Yes",
+              btn_no: "No",
+              icon: Icon(
+                Icons.exit_to_app,
+                color: SecondaryDark,
+                size: device_height * 0.04,
+              ),
+              yes_press:() {
+                SystemChannels.platform.invokeMethod('SystemNavigator.pop');
+              },
+              no_press: (){
+                Navigator.of(context).pop(false);
+              },
+            ));
+      },
+      pageBuilder: (BuildContext context, Animation animation,
+          Animation secondaryAnimation) {
+        return null;
+      },
+    );
+  }
+
 }
+
+
 
 
 
@@ -375,8 +409,8 @@ class LoginPage extends StatelessWidget{
       ),
     );
   }
-  
-  
+
+
 }
 */
 

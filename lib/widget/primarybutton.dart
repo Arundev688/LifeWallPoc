@@ -29,7 +29,7 @@ class PrimaryButton extends StatelessWidget {
       child: RaisedButton(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
         color: Secondarycolor,
-        splashColor: Colors.green[200],
+        splashColor: Secondarylight,
         onPressed:press as void Function(),
         child: Text(
           text,

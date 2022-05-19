@@ -1,4 +1,4 @@
-#Wed May 11 13:10:01 IST 2022
+#Thu May 19 18:56:05 IST 2022
 base.0=D\:\\flutter\\LifeWallPoc\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
